@@ -33,11 +33,7 @@ May 2024 – Aug 2024
 Dec 2023 – May 2024  
 - Worked on Quantum Computing and IoT data integration for enhancing system performance through anomaly detection and forecasting models.
 
-## 🚀 Projects
-- **AI-Powered DSML Job Recommendation Web App:** Utilized XGBoost and GBM for a content-based recommendation system integrated into a Streamlit web app.
-- **Computer Vision with OpenCV & PyTorch:** Developed a ResNet-based CNN to classify images with high accuracy, using advanced techniques in GPU and data augmentation.
-
-## 🏆 Certifications
+## 🏆 Self-Learning Certifications
 - **Tableau:** Data Analyst Certification
 - **Coursera:** AWS Cloud Technology Consultant, IBM Data Engineering
 - **Datacamp:** Data Analyst with R, Data Analyst in SQL
@@ -48,7 +44,7 @@ Dec 2023 – May 2024
 - **Mandarin:** Native
 - **Japanese:** Basic (Reading & Listening)
 
-Feel free to connect with me or check out my projects here on GitHub!
+## Feel free to connect with me or check out my projects here on GitHub!
 <!--
 **xueshunlin/xueshunlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
