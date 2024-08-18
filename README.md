@@ -14,8 +14,10 @@ I am a dedicated Data Science professional with over 2 years of experience in di
 - DevOps & MLOps
 
 ## 🎓 Education
-- **MSc in Industry 4.0, National University of Singapore**
-- **BEng in Electronic and Electrical Engineering, University College London**
+**MSc in Industry 4.0 (Specialization in Computing & Data Science)**  
+National University of Singapore, Aug 2023 – Jan 2025  
+**BEng in Electronic and Electrical Engineering (First Class Honours)**  
+University College London, Sep 2020 – Jun 2023
 
 ## 💼 Experience
 - **Data Science Intern, 6Estates, Singapore**
