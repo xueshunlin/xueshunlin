@@ -1,6 +1,6 @@
 # Lin Xueshun
 
-📧 **Email:** lin.xueshun@u.nus.edu 
+📧 **Email:** lin.xueshun@u.nus.edu  
 🔗 **LinkedIn:** www.linkedin.com/in/xueshunlin
 
 ## 👨‍💻 About Me
