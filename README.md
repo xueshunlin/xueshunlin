@@ -1,7 +1,6 @@
 # Lin Xueshun
 
-📧 **Email:** lin.xueshun@u.nus.edu  
-📞 **Contact:** +65 84517420  
+📧 **Email:** lin.xueshun@u.nus.edu 
 🔗 **LinkedIn:** www.linkedin.com/in/xueshunlin
 
 ## 👨‍💻 About Me
