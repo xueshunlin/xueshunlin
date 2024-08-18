@@ -22,7 +22,10 @@ I am a data science professional with experience in machine learning, data analy
 - **Research Assistant, A*STAR Institute of High Performance Computing (IHPC)**
 
 ## 🏆 Self-Learning Certifications
-- Data Analyst, Deep Learning Specialization, Cloud Technology Consultant
+- **Tableau:** Data Analyst Certification
+- **Coursera:** AWS Cloud Technology Consultant, IBM Data Engineering
+- **Datacamp:** Data Analyst with R, Data Analyst in SQL
+- **DeepLearning.AI:** Deep Learning Specialization, TensorFlow Developer, GANs
 
 ## 🌐 Languages
 - Proficient in English, Native in Mandarin, Basic Japanese
