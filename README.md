@@ -4,45 +4,28 @@
 📞 **Contact:** +65 84517420  
 🔗 **LinkedIn:** www.linkedin.com/in/xueshunlin
 
-## 👨‍💻 Professional Summary
-I am a dedicated Data Science professional with over 2 years of experience in diverse data and ML projects, showcasing strong skills in data analysis, machine learning, and problem-solving through data-driven insights. With a robust academic background and a fervent passion for continuous learning, I am always eager to tackle complex challenges and drive innovation in the tech space.
+## 👨‍💻 About Me
+I am a data science professional with experience in machine learning, data analysis, and cloud computing. Passionate about solving real-world problems using data-driven solutions, I am continuously exploring new technologies and improving my skills.
 
-## 🔥 Core Competencies
-- **Machine Learning Frameworks:** TensorFlow, PyTorch
-- **Programming:** GPU Programming, Python, SQL, R, C++, MATLAB
-- **Data Management:** ETL Workflows, Databases, Cloud Computing
-- **DevOps & MLOps:** Containerization (Docker, Kubernetes), MLOps practices
-- **Visualization & BI Tools:** Tableau (Certified), Spark
-- **Version Control:** Proficient with Git and GitHub
+## 🛠️ Technical Skills
+- Machine Learning: TensorFlow, PyTorch
+- Programming: Python, SQL, R, C++
+- Tools: Docker, Kubernetes, Tableau, Spark
+- DevOps & MLOps
 
 ## 🎓 Education
-**MSc in Industry 4.0 (Specialization in Computing & Data Science)**  
-National University of Singapore, Aug 2023 – Jan 2025  
-**BEng in Electronic and Electrical Engineering (First Class Honours)**  
-University College London, Sep 2020 – Jun 2023
+- **MSc in Industry 4.0, National University of Singapore**
+- **BEng in Electronic and Electrical Engineering, University College London**
 
-## 📈 Work Experience
-### 6Estates, Singapore
-**Data Science Intern**  
-May 2024 – Aug 2024  
-- Developed Python modules for processing financial documents using OCR and Large Language Models (LLM).
-- Enhanced LLM performance through prompt engineering and fine-tuning for Key Information Extraction tasks.
-
-### A*STAR Institute of High Performance Computing (IHPC)
-**Research Assistant**  
-Dec 2023 – May 2024  
-- Worked on Quantum Computing and IoT data integration for enhancing system performance through anomaly detection and forecasting models.
+## 💼 Experience
+- **Data Science Intern, 6Estates, Singapore**
+- **Research Assistant, A*STAR Institute of High Performance Computing (IHPC)**
 
 ## 🏆 Self-Learning Certifications
-- **Tableau:** Data Analyst Certification
-- **Coursera:** AWS Cloud Technology Consultant, IBM Data Engineering
-- **Datacamp:** Data Analyst with R, Data Analyst in SQL
-- **DeepLearning.AI:** Deep Learning Specialization, TensorFlow Developer, GANs
+- Data Analyst, Deep Learning Specialization, Cloud Technology Consultant
 
 ## 🌐 Languages
-- **English:** Proficient (Academic and Professional use)
-- **Mandarin:** Native
-- **Japanese:** Basic (Reading & Listening)
+- Proficient in English, Native in Mandarin, Basic Japanese
 
 ## Feel free to connect with me or check out my projects here on GitHub!
 <!--
