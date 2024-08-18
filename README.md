@@ -5,7 +5,7 @@
 🔗 **LinkedIn:** www.linkedin.com/in/xueshunlin
 
 ## 👨‍💻 About Me
-I am a data science professional with experience in machine learning, data analysis, and cloud computing. Passionate about solving real-world problems using data-driven solutions, I am continuously exploring new technologies and improving my skills.
+I am a dedicated Data Science professional with over 2 years of experience in diverse data and ML projects, showcasing strong skills in data analysis, machine learning, and problem-solving through data-driven insights. With a robust academic background and a fervent passion for continuous learning, I am always eager to tackle complex challenges and drive innovation in the tech space.
 
 ## 🛠️ Technical Skills
 - Machine Learning: TensorFlow, PyTorch
