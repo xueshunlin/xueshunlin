@@ -19,7 +19,7 @@ National University of Singapore, Aug 2023 – Jan 2025
 University College London, Sep 2020 – Jun 2023
 
 ## 💼 Experience
-- **Data Science Intern, 6Estates, Singapore**
+- **Data Science Intern, 6Estates AI, Singapore**
 - **Research Assistant, A*STAR Institute of High Performance Computing (IHPC)**
 
 ## 🏆 Self-Learning Certifications
