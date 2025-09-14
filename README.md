@@ -1,4 +1,4 @@
-# Lin Xueshun (Kenneth)
+# Lin Xueshun (Ken)
 
 📧 **Email:** lin.xueshun@u.nus.edu  
 🔗 **LinkedIn:** www.linkedin.com/in/xueshunlin
