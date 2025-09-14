@@ -19,14 +19,9 @@ National University of Singapore, Aug 2023 – Jan 2025
 University College London, Sep 2020 – Jun 2023
 
 ## 💼 Experience
+- **Software Engineer(AI), Thales DIS Singapore**
 - **Data Science Intern, 6Estates AI, Singapore**
 - **Research Assistant, A*STAR Institute of High Performance Computing (IHPC)**
-
-## 🏆 Self-Learning Certifications
-- **Tableau:** Data Analyst Certification
-- **Coursera:** AWS Cloud Technology Consultant, IBM Data Engineering
-- **Datacamp:** Data Analyst with R, Data Analyst in SQL
-- **DeepLearning.AI:** Deep Learning Specialization, TensorFlow Developer, GANs
 
 ## 🌐 Languages
 - Proficient in English, Native in Mandarin, Basic Japanese
